@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="289a9857-083a-4746-8466-29f89854f511" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/imgs/Corona1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/corona.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/corona2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php.html" afterDir="false" />
+    <list default="true" id="289a9857-083a-4746-8466-29f89854f511" name="Default Changelist" comment="Bài tập về nhà 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +31,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -58,17 +56,60 @@
       <updated>1602131603815</updated>
       <workItem from="1602131604915" duration="516000" />
       <workItem from="1602132789704" duration="16000" />
-      <workItem from="1602140789866" duration="5090000" />
+      <workItem from="1602140789866" duration="5905000" />
+      <workItem from="1602146809795" duration="1149000" />
+      <workItem from="1602220580012" duration="1011000" />
+      <workItem from="1602223017415" duration="582000" />
+      <workItem from="1602294104401" duration="570000" />
     </task>
+    <task id="LOCAL-00001" summary="Bài tập về nhà 1">
+      <created>1602146266364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602146266364</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Bài tập về nhà 1">
+      <created>1602147659603</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602147659603</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bài tập về nhà 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bài tập về nhà 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="454" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602131642954">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="454" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602131642954" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602147658615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602147658615" />
+    <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1602223576119">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="106" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602223576119" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1602220619155">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602220619155" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602147694314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602147694314" />
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602146714448">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1602146714448" />
   </component>
 </project>
