@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="289a9857-083a-4746-8466-29f89854f511" name="Default Changelist" comment="">
+    <list default="true" id="289a9857-083a-4746-8466-29f89854f511" name="Default Changelist" comment="Bài tập về nhà 1">
+      <change afterPath="$PROJECT_DIR$/CSS/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/app1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/boxmodel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assignment2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/boxmodel.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/hello.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/mark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -33,7 +40,8 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/imgs" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -46,6 +54,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\project-T2009M\imgs" />
+      <recent name="E:\project-T2009M\CSS" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -62,7 +71,12 @@
       <workItem from="1602146809795" duration="1149000" />
       <workItem from="1602220580012" duration="1011000" />
       <workItem from="1602223017415" duration="582000" />
-      <workItem from="1602294104401" duration="1222000" />
+      <workItem from="1602294104401" duration="10155000" />
+      <workItem from="1602498912810" duration="6188000" />
+      <workItem from="1602505403990" duration="3239000" />
+      <workItem from="1602509497022" duration="837000" />
+      <workItem from="1602519353784" duration="4131000" />
+      <workItem from="1602552803209" duration="913000" />
     </task>
     <task id="LOCAL-00001" summary="Bài tập về nhà 1">
       <created>1602146266364</created>
@@ -85,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602294992428</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Bài tập về nhà 1">
+      <created>1602295360585</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602295360585</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,14 +117,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Bài tập về nhà 1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="454" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602131642954">
+    <state x="454" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602505909876">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="454" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602131642954" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602294990769">
+    <state x="454" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602505909876" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602553281375">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602294990769" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602553281375" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602523538696">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602523538696" />
     <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1602223576119">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -112,10 +137,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602220619155" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602295000442">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602295365495">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602295000442" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602295365495" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602146714448">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
