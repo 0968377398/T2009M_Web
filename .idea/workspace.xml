@@ -4,9 +4,9 @@
     <list default="true" id="289a9857-083a-4746-8466-29f89854f511" name="Default Changelist" comment="Bài tập về nhà 1">
       <change afterPath="$PROJECT_DIR$/CSS/boxmodel.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/boxmodel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/hello.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/demo.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/app1.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/app1.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imgs/Mark Zuckerberg.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/ss3.html" beforeDir="false" afterPath="$PROJECT_DIR$/ss3.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,7 +73,11 @@
       <workItem from="1602505403990" duration="3239000" />
       <workItem from="1602509497022" duration="837000" />
       <workItem from="1602519353784" duration="4131000" />
-      <workItem from="1602552803209" duration="1655000" />
+      <workItem from="1602552803209" duration="7067000" />
+      <workItem from="1602560234200" duration="4256000" />
+      <workItem from="1602677321862" duration="3813000" />
+      <workItem from="1602691030003" duration="1220000" />
+      <workItem from="1602692582882" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="Bài tập về nhà 1">
       <created>1602146266364</created>
@@ -117,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602554323997</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Bài tập về nhà 1">
+      <created>1602554739712</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602554739712</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -128,18 +139,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="Bài tập về nhà 1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="437" y="188" key="#Notifications" timestamp="1602691703225">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="437" y="188" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1602691703225" />
     <state x="454" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602505909876">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="454" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1602505909876" />
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602553281375">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602692216713">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602553281375" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602554521749">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1602692216713" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1602692937091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602554521749" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1602692937091" />
     <state x="463" y="106" key="FileChooserDialogImpl" timestamp="1602223576119">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -148,10 +163,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602220619155" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602554329094">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1602692209840">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602554329094" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602692209840" />
     <state x="500" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602146714448">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
